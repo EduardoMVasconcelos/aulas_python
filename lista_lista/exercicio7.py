@@ -5,4 +5,4 @@ numero = 1
 for i in range(1, 10+1):
     lista.append(3*numero)
     numero +=1 
-print(lista)
+print(f"Tabuada do  {tabuada}: {lista}")

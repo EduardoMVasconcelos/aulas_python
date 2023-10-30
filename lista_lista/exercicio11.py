@@ -9,4 +9,4 @@ for i in range(1, 6) :
     
 print(f"Atleta: {nome}.")
 print(f"Saltos: {lista}")
-print(f"A média dos saltos: {soma/5}m")
+print(f"A média dos saltos: {(soma/5):.2f}m")
